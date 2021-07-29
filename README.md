@@ -6,3 +6,6 @@ Sitio Web realizado del tutorial de Fazt-Web
 
 ## Preview
 ![Preview](https://user-images.githubusercontent.com/43888961/127558130-71313e06-2251-4219-b7c9-925b2a8907c2.png)
+
+## Pagina Web
+[Pagina en Github Pages](https://josephleyva.github.io/WebPage-TechNews/)
